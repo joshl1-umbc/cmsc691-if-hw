@@ -1,0 +1,6 @@
+take key
+north
+take sword
+south
+attack ogre sword
+east
